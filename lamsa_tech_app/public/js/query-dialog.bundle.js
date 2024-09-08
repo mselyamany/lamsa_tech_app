@@ -1,0 +1,1 @@
+import '../../lamsatech_query_dialog/dist/app.js'

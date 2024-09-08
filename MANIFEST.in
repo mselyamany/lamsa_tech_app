@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lamsa_tech_app *.css
+recursive-include lamsa_tech_app *.csv
+recursive-include lamsa_tech_app *.html
+recursive-include lamsa_tech_app *.ico
+recursive-include lamsa_tech_app *.js
+recursive-include lamsa_tech_app *.json
+recursive-include lamsa_tech_app *.md
+recursive-include lamsa_tech_app *.png
+recursive-include lamsa_tech_app *.py
+recursive-include lamsa_tech_app *.svg
+recursive-include lamsa_tech_app *.txt
+recursive-exclude lamsa_tech_app *.pyc

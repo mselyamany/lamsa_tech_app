@@ -1,0 +1,2 @@
+# LamsaTech Query Dialog
+

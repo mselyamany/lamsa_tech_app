@@ -1,0 +1,15 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "include": [
+    "/**/*",
+    "/**/*.vue"
+  ],
+
+  "compilerOptions": {
+    "baseUrl": ".",
+    "types": ["frappe", "vuetify"],
+    "typeRoots": [
+      "../../types"
+    ]
+  }
+}
