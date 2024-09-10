@@ -1,6 +1,0 @@
-{
-  "js/item-enhancement.js": [
-    "public/js/item_enhancement/target_doctypes.js"
-  ],
-  "js/invoice-order-balance.js": []
-}
